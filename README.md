@@ -5,7 +5,7 @@
 
 > **Open to work:** Director / Head of Product, Senior Program Manager and Technical Product Owner roles at Global Capability Centers (GCCs) in Bengaluru, Chennai and Hyderabad. Hybrid or relocation welcome.
 >
-> **[Download my resume (PDF)](resume/Resume_RammyPS_2027.pdf)**
+> **[Download my resume (PDF)](resume/Resume_RammyPS_2027.pdf)** | **[Summary page](https://rammyps.github.io/rammyps/)**
 
 ---
 
@@ -22,11 +22,11 @@
 `.NET / Blazor` `Python / FastAPI` `MS SQL Server` `PostgreSQL / pgvector` `RAG` `Claude API` `Ollama`
 
 #### Building in public
-- **[ikiastrro](https://github.com/rammyps/ikiastrro)**: a Vedic astrology horoscope app built end to end with AI-assisted development (.NET, SQL Server, Blazor), with every chart validated against an established reference tool.
+- **[ikiastrro](https://github.com/rammyps/ikiastrro)** (also at [ikijunar/ikiastrro](https://github.com/ikijunar/ikiastrro)): a Vedic astrology horoscope app built end to end with AI-assisted development (.NET, SQL Server, Blazor), with every chart validated against an established reference tool.
 - **[product-operating-model-playbook](https://github.com/rammyps/product-operating-model-playbook)**: an open framework for AI-enabled roadmap governance, stakeholder alignment and sprint governance.
 
 #### Currently
 Independent Consultant (Splashed) since July 2026: product advisory and AI-enabled operating model design for enterprise engagements across APJ and EMEA. Previously Vice President at StratAgile and Director of Product Leadership at NielsenIQ. Working through the 2026-27 certification roadmap: PSPO I, PMI-ACP, and AI/Agile product management credentials.
 
 #### Connect
-[LinkedIn](https://linkedin.com/in/rammyps) · [YouTube](https://youtube.com/@rammyps) · [Resume (PDF)](resume/Resume_RammyPS_2027.pdf) · rammyps23@gmail.com
+[Summary page](https://rammyps.github.io/rammyps/) · [LinkedIn](https://linkedin.com/in/rammyps) · [YouTube](https://youtube.com/@rammyps) · [Resume (PDF)](resume/Resume_RammyPS_2027.pdf) · rammyps23@gmail.com
