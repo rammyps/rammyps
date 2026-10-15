@@ -26,7 +26,7 @@
 - **[product-operating-model-playbook](https://github.com/rammyps/product-operating-model-playbook)**: an open framework for AI-enabled roadmap governance, stakeholder alignment and sprint governance.
 
 #### Currently
-Independent Consultant (Splashed) since July 2026: product advisory and AI-enabled operating model design for enterprise engagements across APJ and EMEA. Previously Vice President at StratAgile and Director of Product Leadership at NielsenIQ. Working through the 2026-27 certification roadmap: PSPO I, PMI-ACP, and AI/Agile product management credentials.
+Independent Consultant (Splashed) since July 2026: product advisory and AI-enabled operating model design for enterprise engagements across APJ and EMEA. Previously Vice President at StratAgile (to July 2026) and Director of Product Leadership at NielsenIQ. Working through the 2026-27 certification roadmap: PSPO I, PMI-ACP, and AI/Agile product management credentials.
 
 #### Connect
 [Summary page](https://rammyps.github.io/rammyps/) · [LinkedIn](https://linkedin.com/in/rammyps) · [YouTube](https://youtube.com/@rammyps) · [Resume (PDF)](resume/Resume_RammyPS_2027.pdf) · rammyps23@gmail.com
