@@ -5,7 +5,7 @@
 
 > **Open to work:** Director / Head of Product, Senior Program Manager and Technical Product Owner roles at Global Capability Centers (GCCs) in Bengaluru, Chennai and Hyderabad. Hybrid or relocation welcome.
 >
-> **[Download my resume (PDF)](resume/Resume_RammyPS_2027.pdf)** | **[Summary page](https://rammyps.github.io/rammyps/)**
+> **[Download my resume (PDF)](resume/RESUME_MAS.pdf)** | **[Summary page](https://rammyps.github.io/rammyps/)**
 
 ---
 
@@ -29,4 +29,4 @@
 Independent Consultant (Splashed) since July 2026: product advisory and AI-enabled operating model design for enterprise engagements across APJ and EMEA. Previously Vice President at StratAgile (to July 2026) and Director of Product Leadership at NielsenIQ. Working through the 2026-27 certification roadmap: PSPO I, PMI-ACP, and AI/Agile product management credentials.
 
 #### Connect
-[Summary page](https://rammyps.github.io/rammyps/) · [LinkedIn](https://linkedin.com/in/rammyps) · [YouTube](https://youtube.com/@rammyps) · [Resume (PDF)](resume/Resume_RammyPS_2027.pdf) · rammyps23@gmail.com
+[Summary page](https://rammyps.github.io/rammyps/) · [LinkedIn](https://linkedin.com/in/rammyps) · [YouTube](https://youtube.com/@rammyps) · [Resume (PDF)](resume/RESUME_MAS.pdf) · rammyps23@gmail.com
